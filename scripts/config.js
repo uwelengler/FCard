@@ -1,6 +1,7 @@
 // hier sind alle grundlegenden config einstellungen abgelegt
 var pgmversion = "1.13.2023.07.08";
 
+
 var tabcheckboxes =
 {
     "color": {
